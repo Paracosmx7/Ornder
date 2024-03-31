@@ -19,6 +19,7 @@ public class MyTestMod
 {
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "mytestmod";
+    public static final String E = "Wenn Du das ließt ist das based";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
     public MyTestMod()
