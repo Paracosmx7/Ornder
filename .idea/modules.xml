@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mc_Mod.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Mc_Mod.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Mc_Mod.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Mc_Mod.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ornder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ornder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ornder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ornder.test.iml" />
+    </modules>
+  </component>
+</project>
